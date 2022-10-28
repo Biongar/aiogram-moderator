@@ -26,10 +26,10 @@ CREATE DATABASE telegram_db WITH OWNER telegram_user;
 ```
 
 ### Виртуальное окружение
-> python3.10 -m venv venv
-> source venv/bin/activate
-> pip install -U pip
-> pip install -r requirements.txt
+> python3.10 -m venv venv;
+> source venv/bin/activate;
+> pip install -U pip;
+> pip install -r requirements.txt;
 
 ### Создание файла .env
 
