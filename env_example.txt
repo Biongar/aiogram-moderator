@@ -1,0 +1,10 @@
+# Base settings
+
+BOT_TOKEN='token'
+
+# Database settings
+
+DB_NAME='name'
+DB_USER='user'
+DB_PASSWORD='password'
+DB_HOST='localhost'
